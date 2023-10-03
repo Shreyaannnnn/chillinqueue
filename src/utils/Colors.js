@@ -1,0 +1,35 @@
+export default {
+    black: '#000',
+    grayDark: '#555',
+    gray: '#999',
+    grayLight: '#ccc',
+    white: '#fff',
+    violet: '#ee82ee',
+    indigo: '#4B0082',
+    blueDark: '#000088',
+    blue: '#0000ff',
+    blueLight: '#00BFFF',
+    green: '#32CD32',
+    greenLime: '#3CB371',
+    greenDark: '#006400',
+    greenYellow: '#ADFF2F',
+    yellow: '#FFFF00',
+    orange: '#FFA500',
+    orangeRed: '#FF4500',
+    red: '#ff0000',
+    pinkDark: '#e7487f',
+
+    // gradient colours
+    gradientColors: [
+        '#a94a73',
+        '#10a1ba',
+        '#1d75e7',
+        '#1d608e',
+        '#1ccfe7',
+    ],
+    buttonBackground: '#2d4a74',
+    translucentBackground: '#2d4a7488',
+    transparent: '#00000000',
+    buttonBackground2: "#3a375e",
+    blackButtonBackground: '#212124'
+}

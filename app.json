@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "chillinq",
+    "slug": "chillinq",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/chillinq/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/chillinq/splash.png",
+        "backgroundColor": "#ffffff",
+        "permissions": ["CAMERA_ROLL"]
+      },
+      "googleServicesFile": "./google-services.json",
+      "package": "com.adnanbuch04.chillinq"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "64ac830f-2617-4ce6-b0d9-b1093083cef3"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "746846950632",
+    "project_id": "flurtexpo",
+    "storage_bucket": "flurtexpo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746846950632:android:6e42a40b32e1c71bece55d",
+        "android_client_info": {
+          "package_name": "com.adnanbuch04.chillinq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746846950632-gklj2jhdttu6mu1hobksbnd0p24elmpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adnanbuch04.chillinq",
+            "certificate_hash": "a7d0ebef02415e2fe8503e0cd0c4160818aec5ba"
+          }
+        },
+        {
+          "client_id": "746846950632-njon2neudmrs8l2bar7hjilgd8kjnueg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adnanbuch04.chillinq",
+            "certificate_hash": "ed69c885dd9f2e1d83c2cd918245595966fc3686"
+          }
+        },
+        {
+          "client_id": "746846950632-d1mkhqusec03ed9ankg9sk61qsruheb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_kxvBWsVhskyRgZRF9_WnsZl9zNSpt40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746846950632-d1mkhqusec03ed9ankg9sk61qsruheb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
